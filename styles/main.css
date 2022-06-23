@@ -225,13 +225,13 @@ a {
 }
 
 .work-carousel .cell-4 {
-	background-image: url(../images/SliderTypeSpecimen.jpg);
+	background-image: url(../images/SliderAligned.jpg);
 	background-size: cover;
 	background-position: center;
 }
 
 .work-carousel .cell-5 {
-	background-image: url(../images/SliderDocPoster.jpg);
+	background-image: url(../images/SliderAirsask.jpg);
 	background-size: cover;
 	background-position: center;
 }
@@ -462,6 +462,171 @@ a {
 
  /*
 |------------------------------------------
+|  Project Page:Cadence
+|------------------------------------------
+*/
+
+.project-bnr .cadence.right-col {
+    background-image: url(../images/CadenceCover.jpg);
+}    
+
+.gallery-container {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.gallery-img {
+	margin-bottom: 20px;
+	height: 275px;
+	width: 85vw;
+	background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.gallery-container .cadence.img-1 {
+	background-image: url(../images/CadenceFeature1.jpg);
+	flex-grow: 2;
+}
+
+.gallery-container .cadence.img-2 {
+	background-image: url(../images/CadenceFeature2.jpg);
+	flex-grow: 2;
+}
+
+.gallery-container .cadence.img-3 {
+	background-image: url(../images/CadenceFeature3.jpg);
+	flex-grow: 1;
+}
+
+
+.gallery-container .cadence.img-4 {
+	background-image: url(../images/CadenceFeature4.jpg);
+	flex-grow: 2;
+}
+
+.gallery-container .cadence.img-5 {
+	background-image: url(../images/CadenceFeature5.jpg);
+	flex-grow: 2;
+}
+
+.gallery-container .cadence.img-6 {
+	background-image: url(../images/CadenceFeature6.jpg);
+	flex-grow: 1;
+}
+
+ /*
+|------------------------------------------
+|  Project Page:airsask
+|------------------------------------------
+*/
+
+.project-bnr .airsask.right-col {
+    background-image: url(../images/AirsaskCover.jpg);
+}    
+
+.gallery-container {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.gallery-img {
+	margin-bottom: 20px;
+	height: 275px;
+	width: 85vw;
+	background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.gallery-container .airsask.img-1 {
+	background-image: url(../images/AirsaskFeature1.jpg);
+	flex-grow: 2;
+}
+
+.gallery-container .airsask.img-2 {
+	background-image: url(../images/AirsaskFeature2.jpg);
+	flex-grow: 2;
+}
+
+.gallery-container .airsask.img-3 {
+	background-image: url(../images/AirsaskFeature3.jpg);
+	flex-grow: 1;
+}
+
+
+.gallery-container .airsask.img-4 {
+	background-image: url(../images/AirsaskFeature4.jpg);
+	flex-grow: 2;
+}
+
+.gallery-container .airsask.img-5 {
+	background-image: url(../images/AirsaskFeature5.jpg);
+	flex-grow: 2;
+}
+
+.gallery-container .airsask.img-6 {
+	background-image: url(../images/AirsaskFeature6.jpg);
+	flex-grow: 1;
+}
+
+ /*
+|------------------------------------------
+|  Project Page:aligned
+|------------------------------------------
+*/
+
+.project-bnr .aligned.right-col {
+    background-image: url(../images/AlignedCover.jpg);
+}    
+
+.gallery-container {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.gallery-img {
+	margin-bottom: 20px;
+	height: 275px;
+	width: 85vw;
+	background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.gallery-container .aligned.img-1 {
+	background-image: url(../images/AlignedFeature1.jpg);
+	flex-grow: 2;
+}
+
+.gallery-container .aligned.img-2 {
+	background-image: url(../images/AlignedFeature2.jpg);
+	flex-grow: 2;
+}
+
+.gallery-container .aligned.img-3 {
+	background-image: url(../images/AlignedFeature3.jpg);
+	flex-grow: 1;
+}
+
+
+.gallery-container .aligned.img-4 {
+	background-image: url(../images/AlignedFeature4.jpg);
+	flex-grow: 2;
+}
+
+.gallery-container .aligned.img-5 {
+	background-image: url(../images/AlignedFeature5.jpg);
+	flex-grow: 2;
+}
+
+.gallery-container .aligned.img-6 {
+	background-image: url(../images/AlignedFeature6.jpg);
+	flex-grow: 1;
+}
+
+ /*
+|------------------------------------------
 |  Project Page:Brand Development
 |------------------------------------------
 */
@@ -514,6 +679,8 @@ a {
 	background-image: url(../images/PosterFeature6.jpg);
 	flex-grow: 1;
 }
+
+
 
 
  /*
